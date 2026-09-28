@@ -18,7 +18,7 @@ import (
 //go:embed assets/RedditMono-Bold.ttf
 var defaultFontBytes []byte
 
-const defaultTrimSeconds = 2.0
+const defaultTrimSeconds = 3.0
 
 // waitEnter espera a que el usuario pulse Enter, para que si el programa se
 // abrió con doble clic la consola no se cierre sola antes de leer el resumen.

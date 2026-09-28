@@ -31,7 +31,7 @@ archivos ya procesados.
    - **Texto de la marca de agua**: el texto que se estampará en el vídeo.
    - **Ruta a una fuente personalizada**: Enter para usar la fuente por
      defecto incluida, o la ruta a tu propio `.ttf`/`.otf`.
-   - **Segundos a cortar del final**: Enter para el valor por defecto (2s),
+   - **Segundos a cortar del final**: Enter para el valor por defecto (3s),
      o un número distinto.
 5. Los vídeos procesados aparecen en `output/`, con el mismo nombre que el
    original.
