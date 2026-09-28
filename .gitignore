@@ -1,0 +1,14 @@
+# Compiled output and third-party binaries - see README for why these
+# aren't committed (repo bloat + ffmpeg's own license terms).
+/build/*.exe
+/build/raw_video/
+/build/output/
+/build/.default-font.ttf
+
+# Go
+*.test
+*.out
+
+# OS cruft
+Thumbs.db
+.DS_Store
